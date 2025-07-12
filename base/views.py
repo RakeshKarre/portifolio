@@ -73,8 +73,8 @@ def track_visit(request):
             send_mail(
                 subject='New Portfolio Visit Alert',
                 message=f"Someone visited your portfolio!\nPage: {page_url}\nTime Spent: {time_spent} seconds",
-                from_email='rakeshkarree@gmail.com"',
-                recipient_list=['rakeshkarree@gmail.com"'],
+                from_email='rakeshkarree@gmail.com',
+                recipient_list=['rakeshkarree@gmail.com'],
                 fail_silently=False,
             )
 
