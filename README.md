@@ -1,8 +1,8 @@
-💼 Uppunuti Siddhartha's Portfolio
+💼 Rakesh Karre'sPortfolio
 Welcome to my personal portfolio! This project highlights my skills, projects, and experience as a software developer.
 
 📌 About Me
-Hi, I'm Uppunuti Siddhartha — a passionate Python Full Stack Developer from Rajanna Sircilla, currently based in Hyderabad. I specialize in web development with a strong focus on backend technologies like Django and Python.
+Hi, I'm Rajesh Karre— a passionate Python Full Stack Developer from Rajanna Sircilla, currently based in Hyderabad. I specialize in web development with a strong focus on backend technologies like Django and Python.
 
 🚀 Tech Stack
 🌐 Frontend: HTML, CSS, JavaScript
@@ -12,16 +12,16 @@ Hi, I'm Uppunuti Siddhartha — a passionate Python Full Stack Developer from Ra
 🗃️ Database: SQLite, PostgreSQL
 
 💻 Tools: Git, GitHub, VS Code
-➡️ Live Site: https://portifolio-siddu-1.onrender.com
+➡️ Live Site: https://portifolio-9km1.onrender.com/
 
 
 
 
 📞 Contact
-📧 Email: uppunutisiddhartha@gmail.com
+📧 Email: rakeshkarree@gmail.com
 
 📍 Location: Hyderabad, Telangana
 
-🔗 LinkedIn: https://www.linkedin.com/in/siddhartha55/
+🔗 LinkedIn: https://www.linkedin.com/rakeshkarre/
 
 Feel free to get in touch if you have any questions or would like to collaborate!
