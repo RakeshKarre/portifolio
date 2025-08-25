@@ -1,8 +1,8 @@
-💼 Rakesh Karre'sPortfolio
+💼 Rakesh Karre's Portfolio
 Welcome to my personal portfolio! This project highlights my skills, projects, and experience as a software developer.
 
 📌 About Me
-Hi, I'm Rajesh Karre— a passionate Python Full Stack Developer from Medak, currently based in Hyderabad. I specialize in web development with a strong focus on backend technologies like Django and Python.
+Hi, I'm Rakesh Karre— a passionate Python Full Stack Developer from Medak, currently based in Hyderabad. I specialize in web development with a strong focus on backend technologies like Django and Python.
 
 🚀 Tech Stack
 🌐 Frontend: HTML, CSS, JavaScript
