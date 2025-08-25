@@ -22,6 +22,6 @@ Hi, I'm Rajesh Karre— a passionate Python Full Stack Developer from Rajanna Si
 
 📍 Location: Hyderabad, Telangana
 
-🔗 LinkedIn: https://www.linkedin.com/rakeshkarre/
+🔗 LinkedIn: https://www.linkedin.com/in/rakeshkarre/
 
 Feel free to get in touch if you have any questions or would like to collaborate!
